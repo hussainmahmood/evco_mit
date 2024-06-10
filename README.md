@@ -5,6 +5,6 @@ It is just for educational purposes, we do not take responsibility for any illic
 
 ![Evolutionary Computation](evco.png)
 
-### Sample result
+## Sample result
 
 ![Sample results](results.png)
